@@ -7,7 +7,7 @@ Hi! I'm **Vinay Singh**, a passionate **Full-Stack Developer** with expertise in
 - 🛠 **Backend Development:** Creating robust APIs and backend solutions using **Node.js, Express, and Laravel**.
 - 🗄 **Database Management:** Handling structured and NoSQL databases like **MySQL and MongoDB**.
 - 🔄 **State Management:** Implementing smooth and efficient state management using **Redux & Redux-Saga**.
-- 🔧 **DevOps & Deployment:** Managing servers with **Apache & Nginx** and deploying applications using **Docker**.
+- 🔧 **DevOps & Deployment:** Managing servers with **Apache & Nginx**.
 - 🚀 **Version Control:** Collaborating efficiently with **Git & GitHub**.
 
 ## 🌐 Socials:
